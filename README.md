@@ -2,7 +2,7 @@
 Nível Iniciante (C):
 
 - [x] Escreva um programa que imprima "Olá, mundo!" na tela.
-- [x]Faça um programa que peça ao usuário para digitar um número e, em seguida, imprima o dobro desse número.
+- [x] Faça um programa que peça ao usuário para digitar um número e, em seguida, imprima o dobro desse número.
 - [] Crie um programa que calcule a média de três números inseridos pelo usuário.
 - [] Escreva um programa que leia um número e determine se ele é par ou ímpar.
 - [] Faça um programa que calcule a área de um triângulo a partir de sua base e altura.
