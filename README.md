@@ -1,5 +1,4 @@
-# Exercicios de c e c ++
-Nível Iniciante (C):
+# Nível Iniciante (C):
 
 - [x] Escreva um programa que imprima "Olá, mundo!" na tela.
 - [x] Faça um programa que peça ao usuário para digitar um número e, em seguida, imprima o dobro desse número.
